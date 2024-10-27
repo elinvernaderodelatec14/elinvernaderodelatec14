@@ -1,4 +1,4 @@
-<h2 style="color: #007f3d;">Descripción del Proyecto</h2>
+<h2 style="color: #007f3d;">Invernadero Inteligente</h2>
 <p>
     Este proyecto busca implementar un sistema de 
     <strong style="color: #007f3d;">invernadero inteligente</strong> en la 
