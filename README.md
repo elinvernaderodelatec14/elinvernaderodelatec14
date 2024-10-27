@@ -1,3 +1,1 @@
- 
-"# elinvernaderodelatec14"  
-Este proyecto busca implementar un sistema de invernadero inteligente utilizando herramientas avanzadas de Ciencia de Datos y Machine Learning para optimizar el cultivo y la gestión de recursos. A través de un enfoque basado en datos, se analizarán diversas variables que afectan el crecimiento de las plantas y se desarrollarán modelos predictivos para mejorar la producción agrícola.
+Este proyecto busca implementar un sistema de invernadero inteligente en la Escuela Secundaria Técnica N° 14 de González Catán, La Matanza, provincia de Buenos Aires. Utilizando herramientas avanzadas de Ciencia de Datos y Machine Learning, el objetivo es optimizar el cultivo y la gestión de recursos en el invernadero, que actualmente se encuentra al 60% de su desarrollo.
