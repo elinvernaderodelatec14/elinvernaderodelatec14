@@ -18,13 +18,7 @@
             text-align: center;
             border-radius: 5px;
         }
-        .container {
-            background-color: white;
-            padding: 20px;
-            border-radius: 5px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-            margin: 20px 0;
-        }
+        
         h1 {
             color: #007f3d;
         }
